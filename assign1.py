@@ -14,7 +14,6 @@ class Stack(list):
         return self[-1] if self else -1
 
 
-# 얍
 if __name__ == '__main__':
     wonStack = Stack()
     myStack = Stack()
